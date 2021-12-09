@@ -1,0 +1,16 @@
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\RPG
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\RPG.deps.json
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\RPG.runtimeconfig.json
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\RPG.runtimeconfig.dev.json
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\RPG.dll
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\ref\RPG.dll
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\osx.10.11-x64\RPG.pdb
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.csprojAssemblyReference.cache
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.AssemblyInfoInputs.cache
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.AssemblyInfo.cs
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.csproj.CoreCompileInputs.cache
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.dll
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\ref\RPG.dll
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.pdb
+F:\Codings\C#\RPG\RPG\obj\Debug\net5.0\osx.10.11-x64\RPG.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\win10-x64\publish\RPG.pdb
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\win10-x64\publish\RPG.exe

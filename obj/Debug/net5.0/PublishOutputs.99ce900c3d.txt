@@ -1,0 +1,5 @@
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\publish\RPG.exe
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\publish\RPG.dll
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\publish\RPG.deps.json
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\publish\RPG.runtimeconfig.json
+F:\Codings\C#\RPG\RPG\bin\Debug\net5.0\publish\RPG.pdb
